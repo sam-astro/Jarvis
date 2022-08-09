@@ -3,5 +3,5 @@ argparse
 numpy
 json
 pyaudio
-speechrecogntion
+speechrecognition
 tqdm
